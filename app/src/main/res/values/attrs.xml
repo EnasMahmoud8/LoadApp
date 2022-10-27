@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="LoadingButton">
+        <attr name="buttonColor" format="color"/>
+        <attr name="circleColor" format="color"/>
+        <attr name="loadingColor" format="color"/>
+
+    </declare-styleable>
+</resources>
